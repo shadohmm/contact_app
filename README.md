@@ -17,7 +17,7 @@ The application can be downloaded on the mobile from the apk in the project.
 
 To run this application on your follow the following steps:
 
-  **Make sure you are connt=ected to internet.**
+  **Make sure you are conntected to internet.**
 
   1. Download the zip file from the github
   2. extract the file,and the file name is "contacts_app"
